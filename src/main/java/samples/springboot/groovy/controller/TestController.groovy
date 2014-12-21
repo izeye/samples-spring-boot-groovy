@@ -1,4 +1,4 @@
-package samples.springboot.groovy
+package samples.springboot.groovy.controller
 
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RestController
